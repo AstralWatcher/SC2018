@@ -2,32 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb108e7e-1d8e-4f37-864c-0074a47f927a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/SC2018.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/demo.avi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/images/lines.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/images/prepoznavanje.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/res.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/videos/video-0.avi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/videos/video-1.avi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/videos/video-2.avi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/videos/video-3.avi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/videos/video-4.avi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/videos/video-5.avi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/videos/video-6.avi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/videos/video-7.avi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/videos/video-8.avi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/videos/video-9.avi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution/ra_10_2015/Check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution/ra_10_2015/Obuka.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution/ra_10_2015/model/7od22.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution/ra_10_2015/out.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution/ra_10_2015/process.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution/ra_10_2015/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/lines.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/prepoznavanje.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solution/ra_10_2015/Check.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solution/ra_10_2015/Obuka.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solution/ra_10_2015/model/7od22.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solution/ra_10_2015/out.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solution/ra_10_2015/process.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solution/ra_10_2015/test.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,12 +56,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="8" />
+          <entry key="py" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="8" />
+          <entry key="Python" value="29" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="2" />
         </counts>
       </usages-collector>
     </session>
@@ -86,52 +79,17 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/solution/ra_10_2015/process.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="264" column="32" selection-start-line="264" selection-start-column="32" selection-end-line="264" selection-end-column="32" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/solutions/ra_10_2015/Check.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/solution/ra_10_2015/test.py">
+        <entry file="file://$PROJECT_DIR$/solutions/ra_10_2015/Obuka.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/solution/ra_10_2015/Obuka.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="986">
-              <caret line="75" column="23" selection-start-line="75" selection-start-column="11" selection-end-line="75" selection-end-column="23" />
+            <state>
               <folding>
                 <element signature="e#0#12#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Anaconda3/envs/virtualenv/Lib/site-packages/h5py/_hl/files.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4352">
-              <caret line="268" selection-start-line="268" selection-end-line="268" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/solution/ra_10_2015/Check.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
-              <caret line="46" column="43" selection-start-line="46" selection-start-column="43" selection-end-line="46" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -150,6 +108,7 @@
       <find>backT</find>
       <find>cv2.</find>
       <find>cv2.imshow</find>
+      <find>find</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -160,15 +119,14 @@
       <list>
         <option value="$PROJECT_DIR$/solution/ra_10_2015/Check.py" />
         <option value="$PROJECT_DIR$/solution/ra_10_2015/Obuka.py" />
-        <option value="$PROJECT_DIR$/solution/ra_10_2015/process.py" />
         <option value="$PROJECT_DIR$/solution/ra_10_2015/test.py" />
+        <option value="$PROJECT_DIR$/solution/ra_10_2015/process.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="527" />
-    <option name="y" value="271" />
-    <option name="width" value="1240" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -188,12 +146,12 @@
             <path>
               <item name="SC2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="SC2018" type="462c0819:PsiDirectoryNode" />
-              <item name="solution" type="462c0819:PsiDirectoryNode" />
+              <item name="solutions" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SC2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="SC2018" type="462c0819:PsiDirectoryNode" />
-              <item name="solution" type="462c0819:PsiDirectoryNode" />
+              <item name="solutions" type="462c0819:PsiDirectoryNode" />
               <item name="ra_10_2015" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -204,6 +162,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -222,7 +181,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.process">
     <configuration name="Obuka" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SC2018" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -293,8 +252,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test" />
         <item itemvalue="Python.process" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.Obuka" />
       </list>
     </recent_temporary>
@@ -313,11 +272,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24973656" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24973656" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.329718" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -325,7 +284,7 @@
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -338,60 +297,7 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solution/ra_10_2015/process.py</url>
-          <line>65</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solution/ra_10_2015/test.py</url>
-          <line>16</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solution/ra_10_2015/test.py</url>
-          <line>20</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solution/ra_10_2015/test.py</url>
-          <line>33</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/solution/ra_10_2015/process.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="264" column="32" selection-start-line="264" selection-start-column="32" selection-end-line="264" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solution/ra_10_2015/Obuka.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="986">
-          <caret line="75" column="23" selection-start-line="75" selection-start-column="11" selection-end-line="75" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/envs/virtualenv/Lib/site-packages/h5py/_hl/files.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4352">
-          <caret line="268" selection-start-line="268" selection-end-line="268" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/solution/ra_10_2015/Check.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="782">
@@ -403,6 +309,45 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
           <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution/ra_10_2015/Obuka.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="56" column="40" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution/ra_10_2015/process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2006">
+          <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/virtualenv/Lib/site-packages/h5py/_hl/files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="264" column="13" lean-forward="true" selection-start-line="264" selection-start-column="13" selection-end-line="264" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solutions/ra_10_2015/Check.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solutions/ra_10_2015/Obuka.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

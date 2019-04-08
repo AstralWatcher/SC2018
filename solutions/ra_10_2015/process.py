@@ -328,7 +328,7 @@ for j in range(0, len(videos)):
                         sum_cal = sum_cal + array_for_number[combo_iter][0]
                         HistoryOperations = HistoryOperations + "+" + str(array_for_number[combo_iter][0]) + " "
     file.write(str(videos[j]) + "\t" + str(sum_cal) + "\r");
-    print("--Za " + str(videos[j]) + " ispunilo=" + str(HisCheck) + " gde suma=" + str(sum_cal) + "(" + HistoryOperations + ")")
+    print("Za " + str(videos[j]) + " gde suma=" + str(sum_cal))
 file.close()
 
 import solution.ra_10_2015.test as test
